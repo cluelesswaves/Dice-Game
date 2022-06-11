@@ -95,5 +95,5 @@ function reset() {
     autoBtn.style.display = "block"
     player2Dice.classList.remove("active")
     player1Dice.classList.add("active")
-    rollBtn.style.boxShadow = "none
+    rollBtn.style.boxShadow = "none"
 }
